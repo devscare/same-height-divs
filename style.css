@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.boxsameheight {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.boxsameheight .container {
+    margin: 0 auto;
+    width: 1200px;
+    display: flex;
+}
+.box {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 22px;
+    margin: 5px 10px;
+}
+.box h2 {}
+.box p{}
+. {}
+. {}
+. {}
+. {}
+. {}
+. {}
